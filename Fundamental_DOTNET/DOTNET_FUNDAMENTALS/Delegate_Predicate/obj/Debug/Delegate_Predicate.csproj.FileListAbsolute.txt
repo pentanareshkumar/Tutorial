@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Predicate\bin\Debug\Delegate_Predicate.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Predicate\bin\Debug\Delegate_Predicate.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Predicate\bin\Debug\Delegate_Predicate.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Predicate\obj\Debug\Delegate_Predicate.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Predicate\obj\Debug\Delegate_Predicate.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Predicate\obj\Debug\Delegate_Predicate.pdb

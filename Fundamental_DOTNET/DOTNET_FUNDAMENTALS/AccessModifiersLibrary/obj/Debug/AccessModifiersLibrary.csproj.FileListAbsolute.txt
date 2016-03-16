@@ -1,0 +1,10 @@
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\bin\Debug\AccessModifiersLibrary.dll
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\bin\Debug\AccessModifiersLibrary.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\obj\Debug\AccessModifiersLibrary.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\obj\Debug\AccessModifiersLibrary.dll
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\obj\Debug\AccessModifiersLibrary.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\bin\Debug\AccessModifiersLibrary.dll
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\bin\Debug\AccessModifiersLibrary.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\obj\Debug\AccessModifiersLibrary.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\obj\Debug\AccessModifiersLibrary.dll
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AccessModifiersLibrary\obj\Debug\AccessModifiersLibrary.pdb

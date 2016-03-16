@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--LINQ to XML Demo-->
+<Customers>
+  <Customer CustID="1001">
+    <Name>Naresh</Name>
+    <MobileNo>8050005830</MobileNo>
+    <Location>Bangalore</Location>
+    <Address>Marathahalli</Address>
+  </Customer>
+  <Customer CustID="1002">
+    <Name>Sateesh</Name>
+    <MobileNo>9035306830</MobileNo>
+    <Location>Bangalore</Location>
+    <Address>Channasandra</Address>
+  </Customer>
+  <Customer CustID="2000">
+    <Name>David</Name>
+    <MobileNo>9921123460</MobileNo>
+    <Location>London</Location>
+    <Address>87th streat London</Address>
+  </Customer>
+  <Customer CustID="1003">
+    <Name>Suman</Name>
+    <MobileNo>9844125159</MobileNo>
+    <Location>Yeswantpur</Location>
+    <Address>Mattikeri</Address>
+  </Customer>
+  <Customer CustID="1004">
+    <Name>Satya</Name>
+    <MobileNo>9087654332</MobileNo>
+    <Location>Bangalore</Location>
+    <Address>Domluru</Address>
+  </Customer>
+  <Customer CustID="1005">
+    <Name>Suresh</Name>
+    <MobileNo>9035306830</MobileNo>
+    <Location>Hyderabad</Location>
+    <Address>Nallakunta</Address>
+  </Customer>
+  <Customer CustID="1006">
+    <Name>Rajesh</Name>
+    <MobileNo>99877665544</MobileNo>
+    <Location>Hyderabad</Location>
+    <Address>Madhapura</Address>
+  </Customer>
+  <Customer CustID="1007">
+    <Name>Srikant</Name>
+    <MobileNo>987654321</MobileNo>
+    <Location>Chennai</Location>
+    <Address>IIT Madras</Address>
+  </Customer>
+</Customers>

@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQToXML\bin\Debug\LINQToXML.exe.config
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQToXML\bin\Debug\LINQToXML.exe
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQToXML\bin\Debug\LINQToXML.pdb
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQToXML\obj\Debug\LINQToXML.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQToXML\obj\Debug\LINQToXML.exe
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQToXML\obj\Debug\LINQToXML.pdb

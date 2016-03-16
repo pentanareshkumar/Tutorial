@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Func_Action\bin\Debug\Delegate_Func_Action.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Func_Action\bin\Debug\Delegate_Func_Action.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Func_Action\bin\Debug\Delegate_Func_Action.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Func_Action\obj\Debug\Delegate_Func_Action.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Func_Action\obj\Debug\Delegate_Func_Action.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Func_Action\obj\Debug\Delegate_Func_Action.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\bin\Debug\Delegate_Flavors.exe.config
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\bin\Debug\Delegate_Flavors.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\bin\Debug\Delegate_Flavors.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\obj\Debug\Delegate_Flavors.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\obj\Debug\Delegate_Flavors.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\obj\Debug\Delegate_Flavors.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\bin\Debug\Delegate_Flavors.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\bin\Debug\Delegate_Flavors.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\bin\Debug\Delegate_Flavors.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\obj\Debug\Delegate_Flavors.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\obj\Debug\Delegate_Flavors.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Delegate_Flavors\obj\Debug\Delegate_Flavors.pdb

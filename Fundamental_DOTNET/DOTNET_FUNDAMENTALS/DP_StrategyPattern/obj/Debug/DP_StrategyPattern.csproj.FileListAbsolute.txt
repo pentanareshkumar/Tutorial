@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_StrategyPattern\bin\Debug\DP_StrategyPattern.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_StrategyPattern\bin\Debug\DP_StrategyPattern.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_StrategyPattern\bin\Debug\DP_StrategyPattern.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_StrategyPattern\obj\Debug\DP_StrategyPattern.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_StrategyPattern\obj\Debug\DP_StrategyPattern.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_StrategyPattern\obj\Debug\DP_StrategyPattern.pdb

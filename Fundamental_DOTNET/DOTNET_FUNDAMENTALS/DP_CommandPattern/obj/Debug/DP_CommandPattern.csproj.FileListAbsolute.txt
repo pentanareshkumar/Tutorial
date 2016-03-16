@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CommandPattern\bin\Debug\DP_CommandPattern.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CommandPattern\bin\Debug\DP_CommandPattern.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CommandPattern\bin\Debug\DP_CommandPattern.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CommandPattern\obj\Debug\DP_CommandPattern.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CommandPattern\obj\Debug\DP_CommandPattern.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CommandPattern\obj\Debug\DP_CommandPattern.pdb

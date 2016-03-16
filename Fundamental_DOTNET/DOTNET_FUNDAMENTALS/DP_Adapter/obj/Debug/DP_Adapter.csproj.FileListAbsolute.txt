@@ -1,0 +1,12 @@
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\bin\Debug\DP_Adapter.exe.config
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\bin\Debug\DP_Adapter.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\bin\Debug\DP_Adapter.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\obj\Debug\DP_Adapter.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\obj\Debug\DP_Adapter.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\obj\Debug\DP_Adapter.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\bin\Debug\DP_Adapter.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\bin\Debug\DP_Adapter.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\bin\Debug\DP_Adapter.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\obj\Debug\DP_Adapter.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\obj\Debug\DP_Adapter.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_Adapter\obj\Debug\DP_Adapter.pdb

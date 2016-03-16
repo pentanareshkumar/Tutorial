@@ -1,0 +1,10 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EFTutorials.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EFTutorials.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EFTutorials.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EntityFramework.dll
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EntityFramework.SqlServer.dll
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EntityFramework.xml
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\bin\Debug\EntityFramework.SqlServer.xml
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\obj\Debug\EFTutorials_DF.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\obj\Debug\EFTutorials.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\EFTutorials\obj\Debug\EFTutorials.pdb

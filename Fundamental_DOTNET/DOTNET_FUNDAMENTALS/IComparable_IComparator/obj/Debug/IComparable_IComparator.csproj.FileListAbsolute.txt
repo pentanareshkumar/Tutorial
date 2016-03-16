@@ -1,0 +1,12 @@
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\bin\Debug\IComparable_IComparator.exe.config
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\bin\Debug\IComparable_IComparator.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\bin\Debug\IComparable_IComparator.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\obj\Debug\IComparable_IComparator.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\obj\Debug\IComparable_IComparator.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\obj\Debug\IComparable_IComparator.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\bin\Debug\IComparable_IComparator.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\bin\Debug\IComparable_IComparator.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\bin\Debug\IComparable_IComparator.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\obj\Debug\IComparable_IComparator.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\obj\Debug\IComparable_IComparator.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\IComparable_IComparator\obj\Debug\IComparable_IComparator.pdb

@@ -1,0 +1,18 @@
+﻿Transactions are characterized by four properties called ACID properties
+
+Atomic. All steps in the transaction should succeed or fail together. If a transaction successfully completes and the system agrees to preserve its effects, we say that the transaction has committed, otherwise the transaction has aborted, and the underlying changes made to the database are undone, or rolled back.
+
+Consistency. The transaction takes the database from a stable state into a new stable state. The database must satisfy the business rules of the real-world enterprise it models, thus the execution of a transaction must maintain all these consistency constraints.
+
+Isolated. Every transaction is an independent entity. The execution of one transaction does not affect the execution of other transactions running at the same time.
+
+Durability. The results of committed transactions are permanent.
+
+
+Transactions in ADO.NET
+----------------------
+ADO.NET supports single-database transactions as well as distributed transactions. 
+
+Single-database transaction model is implemented using the underlying .NET managed providers for Transaction and Connection classes from the System.Data namespace.
+
+Distributed transaction model is implemented using classes in the namespace System.Transactions.

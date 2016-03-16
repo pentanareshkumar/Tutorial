@@ -1,0 +1,12 @@
+D:\Fundamental_DOTNET\Generics_Example\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe.config
+D:\Fundamental_DOTNET\Generics_Example\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe
+D:\Fundamental_DOTNET\Generics_Example\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.pdb
+D:\Fundamental_DOTNET\Generics_Example\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\Generics_Example\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.exe
+D:\Fundamental_DOTNET\Generics_Example\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe.config
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.csprojResolveAssemblyReference.cache

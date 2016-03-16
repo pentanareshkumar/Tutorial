@@ -1,0 +1,1 @@
+E:\Fundamental_DOTNET\LINQ_Fundamental\LINQ_Fundamental\bin\Debug\LINQ_Fundamental.exe.config

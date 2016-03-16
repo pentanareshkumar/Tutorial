@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\bin\Debug\AnonymousMethod_Example.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Tuple.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\AnonymousMethod_Example\obj\Debug\AnonymousMethod_Example.pdb

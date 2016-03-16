@@ -1,0 +1,12 @@
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\bin\Debug\VarKeyword.exe.config
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\bin\Debug\VarKeyword.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\bin\Debug\VarKeyword.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\obj\Debug\VarKeyword.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\obj\Debug\VarKeyword.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\obj\Debug\VarKeyword.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\bin\Debug\VarKeyword.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\bin\Debug\VarKeyword.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\bin\Debug\VarKeyword.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\obj\Debug\VarKeyword.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\obj\Debug\VarKeyword.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\VarKeyword\obj\Debug\VarKeyword.pdb

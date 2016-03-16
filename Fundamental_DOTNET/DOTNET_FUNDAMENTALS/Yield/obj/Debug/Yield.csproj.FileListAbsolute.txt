@@ -1,0 +1,12 @@
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\bin\Debug\Yield.exe.config
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\bin\Debug\Yield.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\bin\Debug\Yield.pdb
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\obj\Debug\Yield.csprojResolveAssemblyReference.cache
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\obj\Debug\Yield.exe
+D:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\obj\Debug\Yield.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\bin\Debug\Yield.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\bin\Debug\Yield.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\bin\Debug\Yield.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\obj\Debug\Yield.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\obj\Debug\Yield.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\Yield\obj\Debug\Yield.pdb

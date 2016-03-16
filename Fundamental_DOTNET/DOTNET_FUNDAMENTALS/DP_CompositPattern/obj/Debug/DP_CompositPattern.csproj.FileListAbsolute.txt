@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CompositPattern\obj\Debug\DP_CompositPattern.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CompositPattern\bin\Debug\DP_CompositPattern.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CompositPattern\bin\Debug\DP_CompositPattern.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CompositPattern\bin\Debug\DP_CompositPattern.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CompositPattern\obj\Debug\DP_CompositPattern.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\DP_CompositPattern\obj\Debug\DP_CompositPattern.pdb

@@ -1,0 +1,5 @@
+E:\Fundamental_DOTNET\LINQ_Fundamental\ImmediateExecution\bin\Debug\ImmediateExecution.exe.config
+E:\Fundamental_DOTNET\LINQ_Fundamental\ImmediateExecution\bin\Debug\ImmediateExecution.exe
+E:\Fundamental_DOTNET\LINQ_Fundamental\ImmediateExecution\bin\Debug\ImmediateExecution.pdb
+E:\Fundamental_DOTNET\LINQ_Fundamental\ImmediateExecution\obj\Debug\ImmediateExecution.exe
+E:\Fundamental_DOTNET\LINQ_Fundamental\ImmediateExecution\obj\Debug\ImmediateExecution.pdb

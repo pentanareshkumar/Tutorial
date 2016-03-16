@@ -1,0 +1,5 @@
+E:\Fundamental_DOTNET\LINQ_Fundamental\ACM.BL\bin\Debug\ACM.BL.dll
+E:\Fundamental_DOTNET\LINQ_Fundamental\ACM.BL\bin\Debug\ACM.BL.pdb
+E:\Fundamental_DOTNET\LINQ_Fundamental\ACM.BL\obj\Debug\ACM.BL.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\LINQ_Fundamental\ACM.BL\obj\Debug\ACM.BL.dll
+E:\Fundamental_DOTNET\LINQ_Fundamental\ACM.BL\obj\Debug\ACM.BL.pdb

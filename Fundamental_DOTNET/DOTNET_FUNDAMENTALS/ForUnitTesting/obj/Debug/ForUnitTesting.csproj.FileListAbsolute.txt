@@ -1,0 +1,6 @@
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\ForUnitTesting\bin\Debug\ForUnitTesting.exe.config
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\ForUnitTesting\bin\Debug\ForUnitTesting.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\ForUnitTesting\bin\Debug\ForUnitTesting.pdb
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\ForUnitTesting\obj\Debug\ForUnitTesting.csprojResolveAssemblyReference.cache
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\ForUnitTesting\obj\Debug\ForUnitTesting.exe
+E:\Fundamental_DOTNET\DOTNET_FUNDAMENTALS\ForUnitTesting\obj\Debug\ForUnitTesting.pdb

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?> <!--(XDeclaration)-->
+<!--LINQ to XML Demo--> <!--(XComment)-->
+<Customers>
+  <!--(XElement)-->
+  <Customer CustID="1001">
+    <!--(CustID = XAttribute)-->
+    <Name>Abhishek</Name>
+    <MobileNo>9820098200</MobileNo>
+    <Location>Mumbai</Location>
+    <Address>off link road Malad west Mumbai</Address>
+  </Customer>
+  <Customer CustID="1002">
+    <Name>Rajesh</Name>
+    <MobileNo>9820011234</MobileNo>
+    <Location>New Delhi</Location>
+    <Address>off link road laljatnagar New Delhi</Address>
+  </Customer>
+  <Customer CustID="1003">
+    <Name>Rohan</Name>
+    <MobileNo>9820022200</MobileNo>
+    <Location>Mumbai</Location>
+    <Address> link road Kandivali west Mumbai</Address>
+  </Customer>
+  <Customer CustID="1004">
+    <Name>Sonali</Name>
+    <MobileNo>9820098200</MobileNo>
+    <Location>Mumbai</Location>
+    <Address>khar west Mumbai</Address>
+  </Customer>
+</Customers>

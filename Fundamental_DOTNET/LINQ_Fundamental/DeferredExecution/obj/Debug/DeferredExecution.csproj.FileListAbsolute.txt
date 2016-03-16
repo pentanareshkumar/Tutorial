@@ -1,0 +1,5 @@
+E:\Fundamental_DOTNET\LINQ_Fundamental\DeferredExecution\bin\Debug\DeferredExecution.exe.config
+E:\Fundamental_DOTNET\LINQ_Fundamental\DeferredExecution\bin\Debug\DeferredExecution.exe
+E:\Fundamental_DOTNET\LINQ_Fundamental\DeferredExecution\bin\Debug\DeferredExecution.pdb
+E:\Fundamental_DOTNET\LINQ_Fundamental\DeferredExecution\obj\Debug\DeferredExecution.exe
+E:\Fundamental_DOTNET\LINQ_Fundamental\DeferredExecution\obj\Debug\DeferredExecution.pdb
